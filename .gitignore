@@ -5,3 +5,9 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
+
+# Generated intermediate model files
+best_lstm_model.keras
+best_lstm_model_1day.keras
+best_rnn_model.keras
+
